@@ -4,6 +4,8 @@ A static front-end clone of YouTube built using HTML and CSS. This project was o
 
 Although it does not include backend functionality or video streaming capabilities, it helped me understand the fundamentals of building modern web interfaces and strengthened my HTML and CSS skills.
 
+To see the output, use : https://imthiyazhusaina.github.io/Youtube_Clone/youtube.html
+
 ---
 
 ## 📌 Project Overview
